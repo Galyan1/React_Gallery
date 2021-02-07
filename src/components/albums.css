@@ -1,0 +1,11 @@
+.albums{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.album {
+    background: wheat;
+    margin-bottom: 20px;
+    width: 100px;
+}
